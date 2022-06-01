@@ -28,7 +28,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               tag: "Devist3",
               child: SizedBox(
                 child: Image.asset("images/Devist3.png"),
-                height: 60.0,
+                height: 90.0,
               ),
             ),
             Center(
