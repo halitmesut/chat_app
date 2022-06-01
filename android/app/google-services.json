@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283186002911",
+    "project_id": "chat-app-35d72",
+    "storage_bucket": "chat-app-35d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283186002911:android:0de6073f96647a4303e26a",
+        "android_client_info": {
+          "package_name": "com.devistanbul.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283186002911-i4ne5qsvr3lv36pj4d58qambdun3p7pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDB3VbYGC0SFl_y_kifhEmokK8wcuRMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283186002911-i4ne5qsvr3lv36pj4d58qambdun3p7pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
